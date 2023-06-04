@@ -36,3 +36,8 @@ To get started with Random Forest and explore its capabilities, follow these ste
 
 If you have any questions, suggestions, or need assistance, please feel free to [open an issue](https://github.com/dancanyego/RandomForest/issues). We value the feedback and contributions from the community and strive to address all concerns promptly.
 
+## Tree Visualisation
+
+
+
+![download](https://github.com/dancanyego/RandomForest/assets/56153056/e6d1328d-6a77-4c42-ba6e-585777e2592c)
